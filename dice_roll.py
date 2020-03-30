@@ -1,5 +1,8 @@
 """
-Python for Programmers, Assignment 9, Erlend Sanden
+Erlend Sanden
+
+erlend.h.sanden@gmail.com
+
 
 Imports libraries
 """
